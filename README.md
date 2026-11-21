@@ -1,6 +1,7 @@
 <a href="https://www.abonyilab.com"><img src="assets/banner.svg" width="100%" alt="Complex Systems Intelligence – research repository of the HUN-REN–PE Complex Systems Monitoring Research Group, University of Pannonia, Veszprém, Hungary. www.abonyilab.com"></a>
 
 <p align="center">
+  <a href="https://complexsystemsintelligence.github.io/"><img src="https://img.shields.io/badge/portal-complexsystemsintelligence.github.io-E07B39?style=flat-square&labelColor=1B3A57" alt="Portal: complexsystemsintelligence.github.io"></a>
   <a href="https://www.abonyilab.com"><img src="https://img.shields.io/badge/website-abonyilab.com-285780?style=flat-square&labelColor=1B3A57" alt="Website: abonyilab.com"></a>
   <a href="https://uni-pannon.hu"><img src="https://img.shields.io/badge/University_of_Pannonia-Veszpr%C3%A9m-285780?style=flat-square&labelColor=1B3A57" alt="University of Pannonia"></a>
   <a href="https://hun-ren.hu"><img src="https://img.shields.io/badge/HUN--REN-research_group-285780?style=flat-square&labelColor=1B3A57" alt="HUN-REN research group"></a>
@@ -21,7 +22,8 @@ Prof. János Abonyi.
 Our mission is **to help complex socio-technical systems learn**: we turn data from interconnected
 processes, organisations and regions into transparent models, monitoring tools and decision
 support — and we train the engineers and data scientists who build them. This account publishes
-the open textbooks, interactive learning tools and reproducible notebooks that come out of this work.
+the open textbooks, interactive learning tools and reproducible notebooks that come out of this work;
+the portal at [complexsystemsintelligence.github.io](https://complexsystemsintelligence.github.io/) leads to all of them.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/mission-flow-dark.svg">
