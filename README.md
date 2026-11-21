@@ -1,12 +1,12 @@
 <a href="https://www.abonyilab.com"><img src="assets/banner.svg" width="100%" alt="Complex Systems Intelligence – research repository of the HUN-REN–PE Complex Systems Monitoring Research Group, University of Pannonia, Veszprém, Hungary. www.abonyilab.com"></a>
 
 <p align="center">
-  <a href="https://www.abonyilab.com"><img src="https://img.shields.io/badge/website-abonyilab.com-285780?style=flat-square" alt="Website: abonyilab.com"></a>
-  <a href="https://uni-pannon.hu"><img src="https://img.shields.io/badge/University_of_Pannonia-Veszpr%C3%A9m-285780?style=flat-square" alt="University of Pannonia"></a>
-  <a href="https://hun-ren.hu"><img src="https://img.shields.io/badge/HUN--REN-research_group-1B3A57?style=flat-square" alt="HUN-REN research group"></a>
-  <a href="https://scholar.google.com/citations?user=u1uw8A8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-publications-4F7FAD?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://github.com/abonyilab"><img src="https://img.shields.io/badge/research_code-abonyilab-4F7FAD?style=flat-square&logo=github&logoColor=white" alt="Research code: github.com/abonyilab"></a>
-  <a href="mailto:janos@abonyilab.com"><img src="https://img.shields.io/badge/contact-janos%40abonyilab.com-E07B39?style=flat-square" alt="Contact"></a>
+  <a href="https://www.abonyilab.com"><img src="https://img.shields.io/badge/website-abonyilab.com-285780?style=flat-square&labelColor=1B3A57" alt="Website: abonyilab.com"></a>
+  <a href="https://uni-pannon.hu"><img src="https://img.shields.io/badge/University_of_Pannonia-Veszpr%C3%A9m-285780?style=flat-square&labelColor=1B3A57" alt="University of Pannonia"></a>
+  <a href="https://hun-ren.hu"><img src="https://img.shields.io/badge/HUN--REN-research_group-285780?style=flat-square&labelColor=1B3A57" alt="HUN-REN research group"></a>
+  <a href="https://scholar.google.com/citations?user=u1uw8A8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-publications-4F7FAD?style=flat-square&labelColor=1B3A57&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://github.com/abonyilab"><img src="https://img.shields.io/badge/research_code-abonyilab-4F7FAD?style=flat-square&labelColor=1B3A57&logo=github&logoColor=white" alt="Research code: github.com/abonyilab"></a>
+  <a href="mailto:janos@abonyilab.com"><img src="https://img.shields.io/badge/contact-janos%40abonyilab.com-E07B39?style=flat-square&labelColor=1B3A57" alt="Contact"></a>
 </p>
 
 ## About the group
@@ -38,7 +38,7 @@ reproducible from the repositories, and releases are archived on Zenodo with a c
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/"><img src="https://raw.githubusercontent.com/ComplexSystemsIntelligence/adatbanyaszat/main/assets/cover.png" width="180" alt="Cover: Adatbányászat – a hatékonyság eszköze"></a>
+      <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/"><img src="assets/covers/adatbanyaszat.png" width="180" alt="Cover: Adatbányászat – a hatékonyság eszköze"></a>
       <h3>Adatbányászat</h3>
       <em>Data Mining: Theory and Practice in Python</em><br>
       <sub>2nd, fully revised edition</sub>
@@ -46,15 +46,15 @@ reproducible from the repositories, and releases are archived on Zenodo with a c
       <p><a href="https://complexsystemsintelligence.github.io/adatbanyaszat/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/adatbanyaszat.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/adatbanyaszat.epub">EPUB</a><br><a href="https://github.com/ComplexSystemsIntelligence/adatbanyaszat/tree/main/apps">14 practice apps</a> · <a href="https://github.com/ComplexSystemsIntelligence/adatbanyaszat/tree/main/notebooks">15 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/adatbanyaszat">Source</a></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><img src="https://raw.githubusercontent.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/main/kezikonyv/abrak/gen/borito.png" width="180" alt="Cover: Biztonságkritikus rendszerek"></a>
+      <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><img src="assets/covers/biztonsagkritikus-rendszerek.png" width="180" alt="Cover: Biztonságkritikus rendszerek"></a>
       <h3>Biztonságkritikus rendszerek</h3>
       <em>Safety-Critical Systems: Risk, Reliability and Functional Safety</em><br>
       <sub>Handbook + practical guide</sub>
       <p>18 chapters from accident models, HAZOP, FMEA and STPA through fault trees, Markov models and SIL verification to safety cases, ML and cybersecurity, with three running industrial cases.</p>
-      <p><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.epub">EPUB</a><br><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/gyakorlat/">12 labs</a> · 9 practice apps · 7 Colab notebooks<br><a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek">Source</a> · <a href="https://doi.org/10.5281/zenodo.24413011">DOI</a></p>
+      <p><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.epub">EPUB</a><br><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/gyakorlat/">12 labs</a> · <a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/tree/main/gyakorlat/alkalmazasok">9 practice apps</a> · <a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/tree/main/gyakorlat/notebookok">7 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek">Source</a> · <a href="https://doi.org/10.5281/zenodo.24413011">DOI</a></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg"><img src="https://raw.githubusercontent.com/ComplexSystemsIntelligence/rendszermernokseg/gh-pages/kezikonyv/assets/borito.png" width="180" alt="Cover: Rendszermérnökség"></a>
+      <a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg"><img src="assets/covers/rendszermernokseg.png" width="180" alt="Cover: Rendszermérnökség"></a>
       <h3>Rendszermérnökség</h3>
       <em>Systems Engineering: System Development along the V-Model</em><br>
       <sub>Handbook + practical toolkit</sub>
@@ -85,12 +85,24 @@ Issues pages.
 
 ## Software and data
 
-| | |
-|:--|:--|
-| **Research code** | [github.com/abonyilab](https://github.com/abonyilab): [NOCAD](https://github.com/abonyilab/NOCAD) (network-based observability and controllability analysis of dynamical systems), [HAT-VIS](https://github.com/abonyilab/HAT-VIS_MATLAB) (hypergraph visualisation), [Operator 4.0 Laboratory](https://github.com/abonyilab/Operator-4.0-Laboratory) |
-| **Monitoring software** | ObServML, a deployable Python application for compact and modular systems monitoring ([SoftwareX, 2026](https://doi.org/10.1016/j.softx.2026.102596)) |
-| **MATLAB toolboxes** | [Fuzzy Clustering and Data Analysis Toolbox](https://www.abonyilab.com/fclusttoolbox) (Python successor under development), [GP-OLS genetic programming](https://www.abonyilab.com/gp_index), [EASY-IEC interactive evolutionary computing](https://www.abonyilab.com/easy_iec) · [MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/authors/18034) |
-| **Open datasets** | [Erasmus mobility network](https://springernature.figshare.com/articles/Metadata_record_for_A_multilayer_and_spatial_description_of_the_Erasmus_mobility_network/11687310) (*Scientific Data*, 2020) · [World news and SDG monitoring](https://doi.org/10.1016/j.dib.2021.106978) (*Data in Brief*, 2021) · [Regional Industry 4.0 readiness index](http://dx.doi.org/10.17632/23gwn43ygp.1) (2020) |
+<table>
+  <tr>
+    <td valign="top" width="24%"><b>Research code</b></td>
+    <td valign="top"><a href="https://github.com/abonyilab">github.com/abonyilab</a>: <a href="https://github.com/abonyilab/NOCAD">NOCAD</a> (network-based observability and controllability analysis of dynamical systems), <a href="https://github.com/abonyilab/HAT-VIS_MATLAB">HAT-VIS</a> (hypergraph visualisation), <a href="https://github.com/abonyilab/Operator-4.0-Laboratory">Operator 4.0 Laboratory</a></td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><b>Monitoring software</b></td>
+    <td valign="top">ObServML, a deployable Python application for compact and modular systems monitoring (<a href="https://doi.org/10.1016/j.softx.2026.102596">SoftwareX, 2026</a>)</td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><b>MATLAB toolboxes</b></td>
+    <td valign="top"><a href="https://www.abonyilab.com/fclusttoolbox">Fuzzy Clustering and Data Analysis Toolbox</a> (Python successor under development), <a href="https://www.abonyilab.com/gp_index">GP-OLS genetic programming</a>, <a href="https://www.abonyilab.com/easy_iec">EASY-IEC interactive evolutionary computing</a> · <a href="http://www.mathworks.com/matlabcentral/fileexchange/authors/18034">MATLAB Central</a></td>
+  </tr>
+  <tr>
+    <td valign="top" width="24%"><b>Open datasets</b></td>
+    <td valign="top"><a href="https://springernature.figshare.com/articles/Metadata_record_for_A_multilayer_and_spatial_description_of_the_Erasmus_mobility_network/11687310">Erasmus mobility network</a> (<em>Scientific Data</em>, 2020) · <a href="https://doi.org/10.1016/j.dib.2021.106978">World news and SDG monitoring</a> (<em>Data in Brief</em>, 2021) · <a href="http://dx.doi.org/10.17632/23gwn43ygp.1">Regional Industry 4.0 readiness index</a> (2020)</td>
+  </tr>
+</table>
 
 The full list of programs and datasets is on the [group website](https://www.abonyilab.com/about-us/software-and-data).
 
