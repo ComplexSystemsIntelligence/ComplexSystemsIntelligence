@@ -33,7 +33,7 @@ the portal at [complexsystemsintelligence.github.io](https://complexsystemsintel
 ## Open textbooks
 
 Open-access university textbooks (in Hungarian), each published as a searchable web book with
-printable PDF and EPUB editions, browser-based practice apps that need no installation, and Google
+printable PDF and EPUB editions, practice materials (browser apps or Excel templates) and Google
 Colab notebooks that run with one click. Figures are drawn in TikZ, the worked examples are
 reproducible from the repositories, and releases are archived on Zenodo with a citable DOI.
 
@@ -56,12 +56,12 @@ reproducible from the repositories, and releases are archived on Zenodo with a c
       <p><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.epub">EPUB</a><br><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/gyakorlat/">12 labs</a> · <a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/tree/main/gyakorlat/alkalmazasok">9 practice apps</a> · <a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/tree/main/gyakorlat/notebookok">7 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek">Source</a> · <a href="https://doi.org/10.5281/zenodo.24413011">DOI</a></p>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg"><img src="assets/covers/rendszermernokseg.png" width="180" alt="Cover: Rendszermérnökség"></a>
-      <h3>Rendszermérnökség</h3>
-      <em>Systems Engineering: System Development along the V-Model</em><br>
-      <sub>Handbook + practical toolkit</sub>
-      <p>26 chapters following the V-model from stakeholders and requirements through architecture, decision making, human-centred design and risk to verification, validation and operation.</p>
-      <p><b>Web edition launching soon</b><br><a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg">Source</a></p>
+      <a href="https://complexsystemsintelligence.github.io/rendszermernokseg/"><img src="assets/covers/rendszermernokseg.png" width="180" alt="Cover: Rendszermérnöki ismeretek és módszerek"></a>
+      <h3>Rendszermérnöki ismeretek és módszerek</h3>
+      <em>Systems Engineering: From Idea to Working System along the V-Model</em><br>
+      <sub>Handbook + practical guide</sub>
+      <p>26 chapters following the V-model from stakeholders and requirements through architecture, decision making, human-centred design and risk to verification, validation and operation, with three running cases.</p>
+      <p><a href="https://complexsystemsintelligence.github.io/rendszermernokseg/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/rendszermernokseg/kezikonyv/rendszermernokseg-kezikonyv.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/rendszermernokseg/kezikonyv/rendszermernokseg-kezikonyv.epub">EPUB</a><br><a href="https://complexsystemsintelligence.github.io/rendszermernokseg/gyakorlat/">55 method sheets</a> · <a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg/tree/main/gyakorlat/sablonok">54 Excel templates</a> · <a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg/tree/main/gyakorlat/notebookok">46 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/rendszermernokseg">Source</a> · <a href="https://doi.org/10.5281/zenodo.24414135">DOI</a></p>
     </td>
   </tr>
 </table>
