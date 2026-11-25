@@ -89,6 +89,13 @@ Issues pages.
 
 <table>
   <tr>
+    <td valign="top" width="24%"><a href="https://complexsystemsintelligence.github.io/fuzzyclust/"><img src="assets/covers/fuzzyclust.png" width="130" alt="Cover: Fuzzy Clustering and Data Analysis in Python"></a></td>
+    <td valign="top"><b><a href="https://github.com/ComplexSystemsIntelligence/fuzzyclust">fuzzyclust</a></b>: fuzzy clustering and data analysis in Python<br>
+    A scikit-learn compatible toolbox: fuzzy c-means, Gustafson–Kessel and Gath–Geva clustering, cluster validity, fuzzy Sammon mapping, robust and kernel variants, graph-based clustering, Takagi–Sugeno model identification, time-series segmentation, and relational, incomplete, very large and image data. The successor of the MATLAB Fuzzy Clustering and Data Analysis Toolbox, with a 384-page open book (CC BY 4.0) and 61 runnable examples.<br>
+    <code>pip install fuzzyclust</code><br>
+    <a href="https://complexsystemsintelligence.github.io/fuzzyclust/"><b>Documentation</b></a> · <a href="https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.pdf">Book (PDF)</a> · <a href="https://pypi.org/project/fuzzyclust/">PyPI</a> · <a href="https://github.com/ComplexSystemsIntelligence/fuzzyclust">Source</a> · <a href="https://doi.org/10.5281/zenodo.24543754">DOI</a></td>
+  </tr>
+  <tr>
     <td valign="top" width="24%"><b>Research code</b></td>
     <td valign="top"><a href="https://github.com/abonyilab">github.com/abonyilab</a>: <a href="https://github.com/abonyilab/NOCAD">NOCAD</a> (network-based observability and controllability analysis of dynamical systems), <a href="https://github.com/abonyilab/HAT-VIS_MATLAB">HAT-VIS</a> (hypergraph visualisation), <a href="https://github.com/abonyilab/Operator-4.0-Laboratory">Operator 4.0 Laboratory</a></td>
   </tr>
@@ -98,7 +105,7 @@ Issues pages.
   </tr>
   <tr>
     <td valign="top" width="24%"><b>MATLAB toolboxes</b></td>
-    <td valign="top"><a href="https://www.abonyilab.com/fclusttoolbox">Fuzzy Clustering and Data Analysis Toolbox</a> (Python successor under development), <a href="https://www.abonyilab.com/gp_index">GP-OLS genetic programming</a>, <a href="https://www.abonyilab.com/easy_iec">EASY-IEC interactive evolutionary computing</a> · <a href="http://www.mathworks.com/matlabcentral/fileexchange/authors/18034">MATLAB Central</a></td>
+    <td valign="top"><a href="https://www.abonyilab.com/fclusttoolbox">Fuzzy Clustering and Data Analysis Toolbox</a> (Python successor: <a href="https://github.com/ComplexSystemsIntelligence/fuzzyclust">fuzzyclust</a>), <a href="https://www.abonyilab.com/gp_index">GP-OLS genetic programming</a>, <a href="https://www.abonyilab.com/easy_iec">EASY-IEC interactive evolutionary computing</a> · <a href="http://www.mathworks.com/matlabcentral/fileexchange/authors/18034">MATLAB Central</a></td>
   </tr>
   <tr>
     <td valign="top" width="24%"><b>Open datasets</b></td>
