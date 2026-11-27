@@ -93,7 +93,7 @@ Issues pages.
     <td valign="top"><b><a href="https://github.com/ComplexSystemsIntelligence/fuzzyclust">fuzzyclust</a></b>: fuzzy clustering and data analysis in Python<br>
     A scikit-learn compatible toolbox: fuzzy c-means, Gustafson–Kessel and Gath–Geva clustering, cluster validity, fuzzy Sammon mapping, robust and kernel variants, graph-based clustering, Takagi–Sugeno model identification, time-series segmentation, and relational, incomplete, very large and image data. The successor of the MATLAB Fuzzy Clustering and Data Analysis Toolbox, with a 384-page open book (CC BY 4.0) and 61 runnable examples.<br>
     <code>pip install fuzzyclust</code><br>
-    <a href="https://complexsystemsintelligence.github.io/fuzzyclust/"><b>Documentation</b></a> · <a href="https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.pdf">Book (PDF)</a> · <a href="https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.epub">EPUB</a> · <a href="https://pypi.org/project/fuzzyclust/">PyPI</a> · <a href="https://github.com/ComplexSystemsIntelligence/fuzzyclust">Source</a> · <a href="https://doi.org/10.5281/zenodo.24543754">DOI</a></td>
+    <a href="https://complexsystemsintelligence.github.io/fuzzyclust/"><b>Documentation</b></a> · <a href="https://complexsystemsintelligence.github.io/fuzzyclust/book/">Book online</a> · <a href="https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.epub">EPUB</a> · <a href="https://pypi.org/project/fuzzyclust/">PyPI</a> · <a href="https://github.com/ComplexSystemsIntelligence/fuzzyclust">Source</a> · <a href="https://doi.org/10.5281/zenodo.24543754">DOI</a></td>
   </tr>
   <tr>
     <td valign="top" width="24%"><b>Research code</b></td>
@@ -117,7 +117,7 @@ The full list of programs and datasets is on the [group website](https://www.abo
 
 ## Monographs
 
-- J. Abonyi: [*Fuzzy Clustering and Data Analysis in Python: The fuzzyclust Toolbox*](https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.pdf). University of Pannonia, 2026. Open access (CC BY 4.0): [PDF](https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.pdf) · [EPUB](https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.epub).
+- J. Abonyi: [*Fuzzy Clustering and Data Analysis in Python: The fuzzyclust Toolbox*](https://complexsystemsintelligence.github.io/fuzzyclust/book/). University of Pannonia, 2026. Open access (CC BY 4.0): [read online](https://complexsystemsintelligence.github.io/fuzzyclust/book/) · [PDF](https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.pdf) · [EPUB](https://complexsystemsintelligence.github.io/fuzzyclust/fuzzyclust-book.epub).
 - J. Abonyi, L. Nagy, T. Ruppert: [*Ontology-Based Development of Industry 4.0 and 5.0 Solutions for Smart Manufacturing and Production*](https://doi.org/10.1007/978-3-031-47444-6). Springer, 2024.
 - J. Abonyi, T. Czvetkó, G. M. Honti: [*Are Regions Prepared for Industry 4.0? The Industry 4.0+ Indicator System for Assessment*](https://doi.org/10.1007/978-3-030-53103-4). Springer, 2020.
 - D. Leitold, Á. Vathy-Fogarassy, J. Abonyi: [*Network-Based Analysis of Dynamical Systems*](https://doi.org/10.1007/978-3-030-36472-4). Springer, 2020.
