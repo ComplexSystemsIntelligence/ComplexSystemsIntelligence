@@ -39,7 +39,7 @@ reproducible from the repositories, and releases are archived on Zenodo with a c
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/"><img src="assets/covers/adatbanyaszat.png" width="180" alt="Cover: Adatbányászat – a hatékonyság eszköze"></a>
       <h3>Adatbányászat</h3>
       <em>Data Mining: Theory and Practice in Python</em><br>
@@ -47,7 +47,7 @@ reproducible from the repositories, and releases are archived on Zenodo with a c
       <p>15 chapters on data preparation, clustering, association rules, predictive modelling, deep learning, anomaly detection, time series and text mining, with two running cases (an online shop and a process plant).</p>
       <p><a href="https://complexsystemsintelligence.github.io/adatbanyaszat/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/adatbanyaszat.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/adatbanyaszat/adatbanyaszat.epub">EPUB</a><br><a href="https://github.com/ComplexSystemsIntelligence/adatbanyaszat/tree/main/apps">14 practice apps</a> · <a href="https://github.com/ComplexSystemsIntelligence/adatbanyaszat/tree/main/notebooks">15 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/adatbanyaszat">Source</a></p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><img src="assets/covers/biztonsagkritikus-rendszerek.png" width="180" alt="Cover: Biztonságkritikus rendszerek"></a>
       <h3>Biztonságkritikus rendszerek</h3>
       <em>Safety-Critical Systems: Risk, Reliability and Functional Safety</em><br>
@@ -55,7 +55,17 @@ reproducible from the repositories, and releases are archived on Zenodo with a c
       <p>18 chapters from accident models, HAZOP, FMEA and STPA through fault trees, Markov models and SIL verification to safety cases, ML and cybersecurity, with three running industrial cases.</p>
       <p><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/kezikonyv/biztonsagkritikus-rendszerek.epub">EPUB</a><br><a href="https://complexsystemsintelligence.github.io/biztonsagkritikus-rendszerek/gyakorlat/">12 labs</a> · <a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/tree/main/gyakorlat/alkalmazasok">9 practice apps</a> · <a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek/tree/main/gyakorlat/notebookok">7 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/biztonsagkritikus-rendszerek">Source</a> · <a href="https://doi.org/10.5281/zenodo.24413011">DOI</a></p>
     </td>
-    <td align="center" valign="top" width="33%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://complexsystemsintelligence.github.io/modellalapu-donteshozas/"><img src="assets/covers/modellalapu-donteshozas.png" width="180" alt="Cover: Modellalapú döntéshozatal"></a>
+      <h3>Modellalapú döntéshozatal</h3>
+      <em>Model-Based Decision Making: Thinking Tools, Multi-Criteria Methods and Interactive Decision Workshops</em><br>
+      <sub>Textbook + decision workshop</sub>
+      <p>28 chapters from framing the decision and generating alternatives through AHP, TOPSIS, PROMETHEE and ELECTRE, decision trees, Bayesian updating and Monte Carlo simulation to dynamic systems, networks, game theory, team decisions and AI-assisted decision making, with seven running cases.</p>
+      <p><a href="https://complexsystemsintelligence.github.io/modellalapu-donteshozas/"><b>Web book</b></a> · <a href="https://complexsystemsintelligence.github.io/modellalapu-donteshozas/kezikonyv/modellalapu-donteshozas.pdf">PDF</a> · <a href="https://complexsystemsintelligence.github.io/modellalapu-donteshozas/kezikonyv/modellalapu-donteshozas.epub">EPUB</a><br><a href="https://complexsystemsintelligence.github.io/modellalapu-donteshozas/gyakorlat/">28 decision workshops</a> · <a href="https://github.com/ComplexSystemsIntelligence/modellalapu-donteshozas/tree/main/gyakorlat/alkalmazasok">28 practice apps</a> · <a href="https://github.com/ComplexSystemsIntelligence/modellalapu-donteshozas/tree/main/gyakorlat/munkafuzetek">21 Excel workbooks</a> · <a href="https://github.com/ComplexSystemsIntelligence/modellalapu-donteshozas/tree/main/gyakorlat/notebookok">20 Colab notebooks</a><br><a href="https://github.com/ComplexSystemsIntelligence/modellalapu-donteshozas">Source</a></p>
+    </td>
+    <td align="center" valign="top" width="50%">
       <a href="https://complexsystemsintelligence.github.io/rendszermernokseg/"><img src="assets/covers/rendszermernokseg.png" width="180" alt="Cover: Rendszermérnöki ismeretek és módszerek"></a>
       <h3>Rendszermérnöki ismeretek és módszerek</h3>
       <em>Systems Engineering: From Idea to Working System along the V-Model</em><br>
